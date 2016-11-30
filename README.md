@@ -1,2 +1,2 @@
 # spring4u_crawler
-A project which crawl some H novels.
+Using python to crawl some novels in forum.
